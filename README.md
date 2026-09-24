@@ -1,3 +1,4 @@
+<title>REMBER</title>
 <div style="position: relative; width: 100%; height: 340px;">
 <canvas id="oilChart" role="img" aria-label="Line chart of WTI crude oil monthly average price per barrel from September 2011 to September 2026, ranging from about 16 dollars in April 2020 to over 114 dollars in June 2022, with a recent climb to about 99 dollars in September 2026">WTI monthly average price, September 2011 to September 2026, in US dollars per barrel.</canvas>
 </div>
