@@ -37,7 +37,7 @@ new Chart(document.getElementById('oilChart'), {
       y: {
         title: { display: true, text: '$ per barrel', color: '#898781', font: { size: 12 } },
         grid: { color: '#e1e0d9' },
-        ticks: {stepSize: 10, color: '#898781', font: { size: 11 } }
+        ticks: {color: '#898781', font: { size: 11 } }
       },
       x: {
         grid: {
